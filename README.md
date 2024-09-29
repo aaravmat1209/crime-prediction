@@ -6,6 +6,18 @@ Authors:
     Manan Gulati
     Olivia Pratt
 
+Citation and Open Source Works used
+=================
+This project utilizes several open-source resources:
+
+Scikit-learn: Pedregosa et al. (2011). http://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf
+Random Decision Forests: Ho, T. K. (1995). https://ieeexplore.ieee.org/document/598994 
+Understanding TypeScript: Bierman et al. (2014). https://link.springer.com/chapter/10.1007/978-3-662-44202-9_14
+Tailwind CSS: https://tailwindcss.com/docs
+Next.js: https://nextjs.org/docs
+React: https://reactjs.org/docs/getting-started.html
+
+
 Problem Statement
 =================
 
